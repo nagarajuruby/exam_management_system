@@ -10,13 +10,12 @@ This is a Exam Management System Ruby on Rails API project that provides an endp
 
 ## Installation
 
-1. Unzip this project
-2. Go to project directory: `cd exam_management_system`
-3. Install the required gems: `bundle install`
-4. Create the database: `rails db:create`
-5. Run the database migrations: `rails db:migrate`
-6. Seed the database with sample data: `rails db:seed`
-7. Start the Rails server: `rails s`
+1. Clone this repository: `git clone https://github.com/nagarajuruby/exam_management_system`
+2. Install the required gems: `bundle install`
+3. Create the database: `rails db:create`
+4. Run the database migrations: `rails db:migrate`
+5. Seed the database with sample data: `rails db:seed`
+6. Start the Rails server: `rails s`
 
 The server should now be running at `http://localhost:3000`.
 
