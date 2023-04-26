@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2023-04-26 13:56:49
+  end_time: 2023-04-26 13:56:49
+  exam: one
+
+two:
+  start_time: 2023-04-26 13:56:49
+  end_time: 2023-04-26 13:56:49
+  exam: two
